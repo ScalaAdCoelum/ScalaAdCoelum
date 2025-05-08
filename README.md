@@ -1,8 +1,11 @@
-### Always building — solo dev, indie heart.  
-_I ship games, tools & ideas from the dark corners of my mind.  
-Not for the streak, but for the story._
+## Hi ! I'm Yun
+### 你好鸭，我芸是云
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Yeuoly&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)
 
-_If you're reading this... thanks for watching from the shadows._ 🕯️
+
+- Lover of Kim Dokja (가장오래된꿈）
+- Game Developer
+- Fullstack developer
 
 [<img align="left" width="390" alt="metrics" src="https://raw.githubusercontent.com/ScalaAdCoelum/metrics/master/metrics.classic.svg">](#)
 
