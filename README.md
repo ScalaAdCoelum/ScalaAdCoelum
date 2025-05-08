@@ -31,4 +31,5 @@
 ### 📈 Activity Graph:
 
 [![Yun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ScalaAdCoelum&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=tokyonight" /> [<img align="right" width='410px' alt="🦇" src="goat.png">](#)
+![🔥 5★ Pulls](https://img.shields.io/badge/5★_Pulls-12-red?style=for-the-badge&logo=appveyor)
+![✨ SSR Rate](https://img.shields.io/badge/SSR_Rate-8.2%25-yellow?style=for-the-badge)  [<img align="right" width='410px' alt="🦇" src="goat.png">](#)
