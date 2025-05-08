@@ -1,47 +1,14 @@
-<img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=ScalaAdCoelum.visitor-badge'>
+> Always grinding — sometimes solo, sometimes with the crew.  
+> _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thomas+Macé!;" />
-</h1>
+> _Thanks for watching from the shadows — it means a lot!_
 
-<h3 align="center">A passionate software engineer from France 🇫🇷</h3>
+[<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/y2-znt/metrics/master/metrics.classic.svg">](#)
 
-<br/>
+[<img align="right" width="390" alt="🦇" src="https://raw.githubusercontent.com/y2-znt/metrics/master/metrics.plugin.wakatime.svg">](#)
 
-<div align="left">
- 
- 🔭 I’m currently working on **a cozy game on Unity!**
- 
- 🌱 I’m currently learning **MLL, RRO, Java (my inner kid is craving to code Minecraft mods)**
+[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=y2-znt&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
-💬 Ask me about **Python, MLL, Game Design... or anything [here](https://github.com/ScalaAdCoelum)**
+[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=y2-znt&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
-⚡ Fun fact **AI won't make you better at dancing...**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:mace.thomas49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/thomas-macé-658aa5226" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://thomasmace.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,blender,cs,cpp,unity,discord,bots,discordjs,xd,css,rails" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,threejs,ruby,js" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<br/>
+[<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
