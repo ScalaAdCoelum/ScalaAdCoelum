@@ -6,5 +6,11 @@
 - Lover of Kim Dokja (가장오래된꿈）
 - Game Developer
 - Fullstack developer
-  
+
+  <svg width="100%" height="100">
+  <circle cx="50" cy="50" r="2" fill="white">
+    <animate attributeName="cx" from="0" to="100%" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
 [<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
