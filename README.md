@@ -1,8 +1,13 @@
 <p align="center"><img align="center" width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Yun 👋
+## Hi ! I'm Yun ! ʚ₍ᐢ. .ᐢ₎ɞ
+### 안녕하세요, 저는 윤이에요.
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)
 
-> A front-end engineer from **HangZhou, China**.
+
+- Lover of Kim Dokja (가장오래된꿈）
+- Game Developer
+- Fullstack developer
 
 ### 🏗️ Learning:
 
@@ -29,9 +34,10 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScalaAdCoelum&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ScalaAdCoelum&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+
