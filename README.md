@@ -31,4 +31,4 @@
 ### 📈 Activity Graph:
 
 [![Yun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ScalaAdCoelum&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
-[<img align="right" width='410px' alt="🦇" src="goat.png">](#)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=tokyonight" /> [<img align="right" width='410px' alt="🦇" src="goat.png">](#)
