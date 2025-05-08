@@ -6,7 +6,5 @@
 - Lover of Kim Dokja (가장오래된꿈）
 - Game Developer
 - Fullstack developer
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
+  
 [<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
