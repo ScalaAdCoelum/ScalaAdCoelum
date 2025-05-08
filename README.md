@@ -1,4 +1,4 @@
-# 🌑 Welcome to ScalaAdCoelum's GitHub Realm
+# 🌑 Welcome to my GitHub Realm
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Indie+Dev+walking+the+Path+of+the+Reader.;My+regression+is+my+source+code.;Reality+splits+where+I+commit.;%EC%82%AC%EC%9D%B4%EC%9D%98+%EC%A0%84%EC%9E%90%EB%A5%BC+%EB%82%98%EB%8A%94+%EC%9D%BD%EC%96%B4%EA%B0%80%EB%8A%94+%EC%9E%90."/>
