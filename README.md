@@ -19,23 +19,14 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : +86 19941208872
-- **E-mail** : 574980606@qq.com
+- **Discord** : @scalaadcaelum
+- **E-mail** : scalaadcoelum@gmail.com
 
 > ### Hi, I am currently looking for a new job opportunity. I have more than five years of work experience. my contact info is above. Feel free to contact me at any time !
->
-> ### 嗨，我目前正在寻找新的工作机会，我拥有超过 5 年工作经验，您可以在上方看到我的联系方式，欢迎随时联系！
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
-
-### 📊 Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScalaAdCoelum&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- ****
 
 ### 📈 Activity Graph:
 
