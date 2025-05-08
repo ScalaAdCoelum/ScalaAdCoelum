@@ -1,92 +1,60 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ0b3dmZzNuZXd4cXcyMXo5ZXV3bWZ0eTRoNzdhdm9rYmMyZ242YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="50"> Welcome to ScalaAdCoelum's Dimension
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Senior+Engineer;Constant+Learner;ORV+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Indie+Game+Developer;Systems+Engineer+in+Disguise;Narrative+Architect;Folklore+Lover;Dokja+Would+Understand&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
-  <em>"There are three ways to survive in a ruined world. I'm going to show you the fourth."</em>
+  <em>“세상이 멸망해도, 나는 살아남는다. I’ll survive, even if the world collapses.”</em>
 </p>
 
 ## 📖 About Me
 
-Senior Game Developer and Engineer building digital worlds one line of code at a time. Like Kim Dokja from ORV, I believe in the power of foresight and preparation. My journey through the development multiverse has equipped me with the skills to navigate complex scenarios and create compelling experiences.
+I'm a game developer and engineer based in France, building **bold digital experiences** across worlds both real and imagined. Like Kim Dokja from *Omniscient Reader’s Viewpoint*, I don’t wait for the plot — I read it, dissect it, and then shape it.
+
+My creative foundation is deeply tied to **Asian storytelling**, from Korean web novels and manhwa to folklore and myth. These narratives fuel my approach to **game systems**, **interactivity**, and the **emotional pacing** of play.
+
+I believe in the power of prototypes, messy drafts, and code that tells stories.
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3dGlidXFyYjZtYnVpM2JrczFpeDhjZ3V0YWFsOWEzNHI1YWVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
 
-## 🌟 Constellations (Skills)
+## 🌌 Constellations (Skills Activated)
 
 ```scala
 object DeveloperSkills {
-  val languages = List("Scala", "Java", "C#", "Python", "JavaScript")
-  val gameEngines = List("Unity", "Unreal Engine", "Custom Engines")
-  val frameworks = List("React", "Node.js", "Play Framework")
-  val databases = List("MongoDB", "PostgreSQL", "Firebase")
-  val tools = List("Git", "Docker", "CI/CD", "AWS")
-  
-  def activateSkill(scenario: String): String = 
-    "Scenario adaptation complete. Preparing solution..."
-}
+  val languages = List("C#", "Python", "JavaScript", "Scala", "GDScript")
+  val gameEngines = List("Unity", "Godot", "Custom 2D/3D Engines")
+  val frameworks = List("React", "Node.js", "Express", "Play Framework")
+  val tools = List("Git", "Figma", "Docker", "CI/CD", "TouchDesigner")
+  val creativeDisciplines = List("Game Design", "System Balancing", "Narrative Design", "Procedural Content")
+} 
 ```
+"스킬 발동: 시스템 설계. 새로운 던전을 생성합니다."
 
-## 🎮 Scenarios (Projects)
+🎮 Scenarios (Projects)
+<div align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"> </div>
+Every project is a new regression point in my personal timeline. Some are stable, some... are not.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
-</div>
+<details> <summary>📚 View Opened Scenarios</summary> <ul> <li><b>Dragon POW! Arena</b> – Stylized idle gacha brawler (2D URP, Unity)</li> <li><b>Gacha Defense: Pull & Deploy</b> – Tower defense with summon mechanics (Unity, Mobile-Ready)</li> <li><b>Unshackled</b> – Mythologically charged rogue-lite with “Stolen Echoes” system (Godot)</li> <li><b>Interactive Narrative Framework</b> – Branching story logic powered by real-time player emotion triggers</li> </ul> </details>
+🔄 Currently Reading (Active Loops)
+🎮 Designing games that reward foresight, not just reflex
 
-*My projects are like chapters in Ways of Survival - each with unique challenges and solutions.*
+🧠 Studying AI behavior systems for player-driven stories
 
-<details>
-  <summary>🔍 View Projects</summary>
-  <ul>
-    <li><b>Project 1:</b> Game development featuring procedural generation</li>
-    <li><b>Project 2:</b> AI-driven NPC behaviors system</li>
-    <li><b>Project 3:</b> Multiplayer backend infrastructure</li>
-    <li><b>Project 4:</b> Interactive narrative framework</li>
-  </ul>
-</details>
+🕹 Prototyping narrative-based combat mechanics
 
-## 📊 Stats & Achievements
+🌍 Immersing myself in new thematic worlds every week
 
-<img src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
+📊 Stats & Systems
+<img src="https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=radical" alt="GitHub Stats" width="420" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScalaAdCoelum&theme=radical" alt="GitHub Streak" width="420" />
+📚 Dokja’s Archive (Blog & Lorecrafting)
+“The story changes depending on who reads it and how they read it.”
+독자의 시점은 언제나 진실보다 강하다.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ScalaAdCoelum&theme=radical" alt="GitHub Streak" width="420" />
+Here I log development notes, design theories, and worldbuilding insights — like a constellation map for those navigating solo dev space.
 
-## 🔄 Current Scenarios (What I'm Working On)
+Coming soon.
 
-- 🎮 Developing immersive game experiences
-- 🧠 Exploring AI integration in gaming
-- 🌐 Building scalable backend systems
-- 📚 Researching novel game mechanics
-
-## 💬 Dokja's Library (Blog & Thoughts)
-
-> "The story changes depending on who reads it and how they read it."
-
-I occasionally share my thoughts on game development, engineering practices, and industry trends. Check out my latest articles!
-
-## 🌍 Connect with this Incarnation
-
-<div align="center">
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://YourBlog.dev">
-    <img src="https://img.shields.io/badge/Blog-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lneXJlbHQ5Z3hjeTY3Z3BwbDZoNDhmMXV3Mmlra3g2YmRxYXYzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUEnpmgX9LyzZfK2xV/giphy.gif" width="100">
-  <p>
-    <em>"I'll survive using the fourth method. I'll make the story go the way I want it to."</em>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=ScalaAdCoelum&style=flat-square&color=blueviolet" alt="Profile Views">
-</div>
+🌐 Connect With This Incarnation
+<div align="center"> <a href="https://twitter.com/YourTwitterHandle"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"> </a> <a href="https://www.linkedin.com/in/YourLinkedInProfile"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://YourBlog.dev"> <img src="https://img.shields.io/badge/Blog-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"> </a> </div>
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lneXJlbHQ5Z3hjeTY3Z3BwbDZoNDhmMXV3Mmlra3g2YmRxYXYzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUEnpmgX9LyzZfK2xV/giphy.gif" width="100"> <p> <em>"나는 이야기를 바꿀 것이다. 그리고 끝까지 읽을 것이다." I’ll change the story. And I’ll read it to the end."</em> </p> <img src="https://komarev.com/ghpvc/?username=ScalaAdCoelum&style=flat-square&color=blueviolet" alt="Profile Views"> </div>
