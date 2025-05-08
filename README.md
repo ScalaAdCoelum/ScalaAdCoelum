@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="100%" src="./assets/header.png" /></p>
+<p align="center"><img align="center" width="100%" src="banner.png" /></p>
 
 ## Hi ! I'm Yun ! ʚ₍ᐢ. .ᐢ₎ɞ
 ### 안녕하세요, 저는 윤이에요.
@@ -31,4 +31,4 @@
 ### 📈 Activity Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ScalaAdCoelum&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
-
+[<img align="right" width="410" alt="🦇" src="goat.pmg">](#)
