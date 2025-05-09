@@ -1,6 +1,7 @@
 ## Hi ! I'm Yun ! ʚ₍ᐢ. .ᐢ₎ɞ
 ### 안녕하세요, 저는 윤이에요.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - Lover of Kim Dokja (가장오래된꿈）
 - Game Developer
