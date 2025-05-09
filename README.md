@@ -1,11 +1,19 @@
 ## Hi ! I'm Yun ! ʚ₍ᐢ. .ᐢ₎ɞ
 ### 안녕하세요, 저는 윤이에요.
-!(https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScalaAdCoelum&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)](https://github.com/ScalaAdCoelum)
 
 - Lover of Kim Dokja (가장오래된꿈）
 - Game Developer
 - Fullstack developer
 
+## 📌 Highlighted Project
+
+**Orbital Defender**
+> A modern HTML5 canvas game with juicy visuals, mobile-friendly controls, and deep customization.
+
+[View the Repository →](https://github.com/ScalaAdCoelum/orbital-defender)
+
+---
 
 ### 📫 Reach me:
 
