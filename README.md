@@ -8,10 +8,8 @@
 
 ## 📌 Highlighted Project
 
-**Orbital Defender**
-> A modern HTML5 canvas game with juicy visuals, mobile-friendly controls, and deep customization.
-
-[View the Repository →](https://github.com/ScalaAdCoelum/orbital-defender)
+**OCR and Mental Health algorithms**
+> Modern softwares helping in mental health.
 
 ---
 
